@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\obj\Debug\Reverse.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Reverse\Reverse\obj\Debug\Reverse.pdb

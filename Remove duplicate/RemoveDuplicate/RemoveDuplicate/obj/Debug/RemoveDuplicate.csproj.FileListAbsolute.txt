@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\bin\Debug\RemoveDuplicate.exe.config
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\bin\Debug\RemoveDuplicate.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\bin\Debug\RemoveDuplicate.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\obj\Debug\RemoveDuplicate.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\obj\Debug\RemoveDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\obj\Debug\RemoveDuplicate.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\RemoveDuplicate\obj\Debug\RemoveDuplicate.pdb

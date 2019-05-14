@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\bin\Debug\Sum.exe.config
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\bin\Debug\Sum.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\bin\Debug\Sum.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\obj\Debug\Sum.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\obj\Debug\Sum.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Sum\Sum\obj\Debug\Sum.pdb

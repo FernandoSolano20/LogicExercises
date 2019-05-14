@@ -1,0 +1,2 @@
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Remove duplicate\RemoveDuplicate\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache

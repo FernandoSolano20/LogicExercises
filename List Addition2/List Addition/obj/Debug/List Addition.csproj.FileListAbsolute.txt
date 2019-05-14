@@ -1,0 +1,14 @@
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\bin\Debug\List Addition.exe.config
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\bin\Debug\List Addition.exe
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\bin\Debug\List Addition.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\obj\Debug\List Addition.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\obj\Debug\List Addition.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\obj\Debug\List Addition.exe
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition\List Addition\obj\Debug\List Addition.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\bin\Debug\List Addition.exe.config
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\bin\Debug\List Addition.exe
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\bin\Debug\List Addition.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\obj\Debug\List Addition.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\obj\Debug\List Addition.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\obj\Debug\List Addition.exe
+C:\Users\fesolano\Desktop\Logic Exercise\List Addition2\List Addition\obj\Debug\List Addition.pdb

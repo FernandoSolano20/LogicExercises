@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\bin\Debug\Merge.exe.config
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\bin\Debug\Merge.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\bin\Debug\Merge.pdb
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\obj\Debug\Merge.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\obj\Debug\Merge.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\obj\Debug\Merge.exe
+C:\Users\fesolano\Desktop\Logic Exercise\Reverse\Merge\Merge\obj\Debug\Merge.pdb
